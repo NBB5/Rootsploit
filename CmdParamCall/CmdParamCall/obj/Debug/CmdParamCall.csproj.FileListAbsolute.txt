@@ -1,0 +1,8 @@
+C:\Projects\CmdParamCall\CmdParamCall\bin\Debug\CmdParamCall.exe.config
+C:\Projects\CmdParamCall\CmdParamCall\bin\Debug\CmdParamCall.exe
+C:\Projects\CmdParamCall\CmdParamCall\bin\Debug\CmdParamCall.pdb
+C:\Projects\CmdParamCall\CmdParamCall\obj\Debug\CmdParamCall.csproj.AssemblyReference.cache
+C:\Projects\CmdParamCall\CmdParamCall\obj\Debug\CmdParamCall.csproj.SuggestedBindingRedirects.cache
+C:\Projects\CmdParamCall\CmdParamCall\obj\Debug\CmdParamCall.csproj.CoreCompileInputs.cache
+C:\Projects\CmdParamCall\CmdParamCall\obj\Debug\CmdParamCall.exe
+C:\Projects\CmdParamCall\CmdParamCall\obj\Debug\CmdParamCall.pdb
