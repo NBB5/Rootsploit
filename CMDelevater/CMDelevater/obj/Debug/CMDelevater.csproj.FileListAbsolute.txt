@@ -1,0 +1,8 @@
+C:\Projects\CMDelevater\CMDelevater\bin\Debug\CMDelevater.exe.config
+C:\Projects\CMDelevater\CMDelevater\bin\Debug\CMDelevater.exe
+C:\Projects\CMDelevater\CMDelevater\bin\Debug\CMDelevater.pdb
+C:\Projects\CMDelevater\CMDelevater\obj\Debug\CMDelevater.csproj.AssemblyReference.cache
+C:\Projects\CMDelevater\CMDelevater\obj\Debug\CMDelevater.csproj.SuggestedBindingRedirects.cache
+C:\Projects\CMDelevater\CMDelevater\obj\Debug\CMDelevater.csproj.CoreCompileInputs.cache
+C:\Projects\CMDelevater\CMDelevater\obj\Debug\CMDelevater.exe
+C:\Projects\CMDelevater\CMDelevater\obj\Debug\CMDelevater.pdb
