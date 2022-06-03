@@ -1,0 +1,16 @@
+C:\Projects\Rootsploit\Rootsploit\bin\Debug\Rootsploit.exe.config
+C:\Projects\Rootsploit\Rootsploit\bin\Debug\Rootsploit.exe
+C:\Projects\Rootsploit\Rootsploit\bin\Debug\Rootsploit.pdb
+C:\Projects\Rootsploit\Rootsploit\obj\Debug\Rootsploit.csproj.AssemblyReference.cache
+C:\Projects\Rootsploit\Rootsploit\obj\Debug\Rootsploit.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Rootsploit\Rootsploit\obj\Debug\Rootsploit.csproj.CoreCompileInputs.cache
+C:\Projects\Rootsploit\Rootsploit\obj\Debug\Rootsploit.exe
+C:\Projects\Rootsploit\Rootsploit\obj\Debug\Rootsploit.pdb
+D:\Projects\RootsploitNoPy\Rootsploit\Rootsploit\bin\Debug\Rootsploit.exe.config
+D:\Projects\RootsploitNoPy\Rootsploit\Rootsploit\bin\Debug\Rootsploit.exe
+D:\Projects\RootsploitNoPy\Rootsploit\Rootsploit\bin\Debug\Rootsploit.pdb
+D:\Projects\RootsploitNoPy\Rootsploit\Rootsploit\obj\Debug\Rootsploit.csproj.AssemblyReference.cache
+D:\Projects\RootsploitNoPy\Rootsploit\Rootsploit\obj\Debug\Rootsploit.csproj.SuggestedBindingRedirects.cache
+D:\Projects\RootsploitNoPy\Rootsploit\Rootsploit\obj\Debug\Rootsploit.csproj.CoreCompileInputs.cache
+D:\Projects\RootsploitNoPy\Rootsploit\Rootsploit\obj\Debug\Rootsploit.exe
+D:\Projects\RootsploitNoPy\Rootsploit\Rootsploit\obj\Debug\Rootsploit.pdb
