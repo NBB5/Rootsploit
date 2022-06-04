@@ -29,3 +29,10 @@ how works this exploit:
 [3] - make DWORD parameter DelegateExecute with value 0
 
 [4] - run computerdefaults.exe (WIN + R computerdefaults.exe)
+
+
+
+{=========================}
+Создано только в учебных и
+исследовательских целях
+{=========================}
