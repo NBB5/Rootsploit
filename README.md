@@ -10,7 +10,6 @@ This tool is a modernized and improved project of exploitblizzard.
 
 ==========================================================================
 
-
 Rootsploit - инструмент для обхода контроля учётных записей (UAC). Оригинальный проект - 
 https://github.com/exploitblizzard/UAC-Bypass
 
